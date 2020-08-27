@@ -1,5 +1,5 @@
 @isTest
-//adding comment
+//adding comments
 public class CreateAccountTest {
 static testMethod void testInsertAccount() {
 CreatingAccount ca = new CreatingAccount();
